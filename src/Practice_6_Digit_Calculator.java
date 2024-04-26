@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practice_6_Armstrong_Number {
+public class Practice_6_Digit_Calculator {
     public static void main(String[] args) {
         // Kullanıcıdan girdinin alınması
         Scanner input = new Scanner(System.in);
