@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practice_Casting {
+public class Practice_Casting_Float_Int {
     public static void main(String[] args) {
         // Kullanıcıdan girdilerin alınması
         Scanner input = new Scanner(System.in);
